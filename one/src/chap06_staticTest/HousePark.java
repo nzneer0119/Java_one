@@ -1,4 +1,4 @@
-package staticTest;
+package chap06_staticTest;
 
 public class HousePark {
 	static String lastname = "박";
